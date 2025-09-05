@@ -6,7 +6,7 @@
 This data analysis projects aims to gain a comprehensive insight into the characteristics of data professionals who participated in a survey. 
 
 
-# Data Source
+### Data Source
 
 The data used for this project is the “Data Professionals.xlsx” containing detailed information about the data professionals 
 
