@@ -5,6 +5,8 @@
 
 This data analysis projects aims to gain a comprehensive insight into the characteristics of data professionals who participated in a survey. 
 
+<img width="897" height="505" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ff87c2c1-0b20-43ad-8af8-2837fcfeceee" />
+
 
 ### Data Source
 
