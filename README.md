@@ -37,7 +37,7 @@ The data was analyzed to answer key questions including:
 4. The favorite programming language of data professionals?
 5. What field of data profession earns the highest average salary?
 
-The visualization was done using Power BI (The dashboard background was designed on powerpoint)
+The visualization was done using Power BI (the dashboard background was designed on powerpoint). The project dashboard is the "Data Professionals presentation".
 
 
 ### Results 
