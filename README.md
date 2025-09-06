@@ -51,4 +51,4 @@ The results are as follows:
 3. The work-life happiness scale of data professionals on a scale of 0-10 is 5.74
 4. The salary happiness scale of data professionals on a scale of 0-10 is 4.27
 5. Python is the favourite programming language of data  professionals
-6. Data scientists have the highest average salary
+6. Data scientists have the highest average salary of $97.38K per annum
