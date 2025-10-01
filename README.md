@@ -5,13 +5,10 @@
 
 This data analysis projects aims to gain a comprehensive insight into the characteristics of data professionals who participated in a survey. 
 
-<img width="897" height="505" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ff87c2c1-0b20-43ad-8af8-2837fcfeceee" />
-
 
 ### Data Source
 
-The data used for this project is the “Data Professionals.xlsx” containing detailed information about the data professionals 
-
+[Download_here](https://github.com/AdeyilolaAyomide/Data-Professionals-project/blob/b277fd37fb7780e09738275c561e57dd4f2b089d/Data%20Professionals.xlsx)
 
 ### Tools
 
@@ -28,7 +25,6 @@ The following tasks were performed:
 - Data formatting in preparation for the analysis.
 The cleaned data is saved on another excel sheet in the same document and labeled 'duplicate 2'
 
-
 ### Data Analysis 
 
 The data was analyzed to answer key questions including:
@@ -39,7 +35,8 @@ The data was analyzed to answer key questions including:
 4. The favorite programming language of data professionals?
 5. What field of data profession earns the highest average salary?
 
-The visualization was done using Power BI (the dashboard background was designed on powerpoint). The project dashboard is the "Data Professionals presentation".
+
+The visualization was done using Power BI. Find [dashboard](https://github.com/AdeyilolaAyomide/Data-Professionals-project/blob/b277fd37fb7780e09738275c561e57dd4f2b089d/Data%20Professionals%20presentation.pbix). Find [pdf_version](https://github.com/AdeyilolaAyomide/Data-Professionals-project/blob/b277fd37fb7780e09738275c561e57dd4f2b089d/Data%20Professionals%20presentation.pdf)
 
 
 ### Results 
