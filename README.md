@@ -44,8 +44,9 @@ The visualization was done using Power BI. Find [dashboard](https://github.com/A
 The results are as follows:
 
 1. The average age of the professionals is 29.9 years
-2. The residence of the data professionals spans across 6 continents. However, 41.4% of the data professionals reside in the United States of America
-3. The work-life happiness scale of data professionals on a scale of 0-10 is 5.74
-4. The salary happiness scale of data professionals on a scale of 0-10 is 4.27
-5. Python is the favourite programming language of data  professionals
-6. Data scientists have the highest average salary of $97.38K per annum
+2. The total number of the data professionals who participated in the survey is 630.
+3. The residence of the data professionals spans across 6 continents. However, 41.4% (261) of the data professionals reside in the United States of America
+4. The work-life happiness scale of data professionals on a scale of 0-10 is 5.74
+5. The salary happiness scale of data professionals on a scale of 0-10 is 4.27
+6. Python is the favourite programming language of data  professionals
+7. Data scientists have the highest average salary of $97.38K per annum
